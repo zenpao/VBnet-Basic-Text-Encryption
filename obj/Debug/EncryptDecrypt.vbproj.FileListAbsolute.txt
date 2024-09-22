@@ -1,0 +1,10 @@
+c:\users\zen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+c:\users\zen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+c:\users\zen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+c:\users\zen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.xml
+c:\users\zen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.Form1.resources
+c:\users\zen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.Resources.resources
+c:\users\zen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.vbproj.GenerateResource.Cache
+c:\users\zen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+c:\users\zen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.xml
+c:\users\zen\documents\visual studio 2013\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
