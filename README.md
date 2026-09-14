@@ -58,4 +58,4 @@ VBnet-Basic-Text-Encryption/
 
 ## License
 
-Not specified.
+Apache License 2.0
